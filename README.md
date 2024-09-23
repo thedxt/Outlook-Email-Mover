@@ -24,7 +24,7 @@ A PowerShell script to move emails around in Outlook using Microsoft Graph.
 `dryrun` is an optional setting that will output the emails that would be moved.
 
 
-[More detailed documentation](https://thedxt.ca/)
+[More detailed documentation](https://thedxt.ca/2024/09/outlook-email-mover/)
 
 
 > [!TIP]
